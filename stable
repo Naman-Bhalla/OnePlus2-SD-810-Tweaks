@@ -1,0 +1,4 @@
+sys\module\qpnp_fg\parameters\debug_mask ----) 1
+sys\module\qpnp_fg\parameters\sense_type ----) 0
+sys\module\qpnp_smbcharger\parameters\vf_adjust_high_threshold ----) 99
+sys\module\qpnp_smbcharger\parameters\vf_adjust_low_threshold ----) 55
