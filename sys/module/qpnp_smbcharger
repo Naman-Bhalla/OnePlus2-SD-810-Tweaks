@@ -1,0 +1,2 @@
+sys\module\qpnp_smbcharger\parameters\vf_adjust_high_threshold ----) 99
+sys\module\qpnp_smbcharger\parameters\vf_adjust_low_threshold ----) 55
